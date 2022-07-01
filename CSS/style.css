@@ -1,0 +1,15 @@
+.back{
+    background-color: pink;
+    width: 800px;
+    opacity: 0;
+}
+.back-open{
+    opacity: 1;
+    transition: 1s;
+}
+.hide{
+    opacity: 0;
+    transition: 1s;
+}
+
+
